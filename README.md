@@ -24,3 +24,5 @@ the schema file will be setup similar to a regular csv table file. the only 2 di
 UserData,id:int,Username:str,HashedPassword:str,salt:str,accountType:str<br>
 as we cab see here we define all the clomuns but start with the table name.<br><br>
 Amazing isnt it
+<br><br>
+Do note that in the where method there is some bloat due to testing i was doing at the time. not sure when i will fix it but eventualy i will
