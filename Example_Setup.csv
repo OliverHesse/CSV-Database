@@ -1,0 +1,1 @@
+UserData,id:int,Username:str,HashedPassword:str,salt:str,accountType:str
